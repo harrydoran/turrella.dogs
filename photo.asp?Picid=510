@@ -1,0 +1,132 @@
+
+<HTML>
+<!-- #BeginTemplate "/Templates/Turrella.dwt" --> 
+<HEAD>
+<!-- #BeginEditable "doctitle" --> 
+<TITLE>Turrella Kennels : Breeders Of Red And Blue Australian Cattle Dogs</TITLE>
+<!-- #EndEditable --> 
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html;">
+<META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+<LINK REL="stylesheet" HREF="turrella.css" TYPE="text/css">
+<SCRIPT SRC="/dogs/vwd_justsopw.js" LANGUAGE = "JavaScript"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" SRC="turrella.js"></SCRIPT>
+<SCRIPT SRC="coolmenus/coolmenus4.js"></SCRIPT>
+</HEAD>
+<BODY BGCOLOR="#006633" LEFTMARGIN="0" TOPMARGIN="0" MARGINWIDTH="0" MARGINHEIGHT="0">
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<SCRIPT LANGUAGE=JavaScript>
+<!--
+var message="Function Disabled!";
+function clickIE4(){
+if (event.button==2){
+alert(message);
+return false;
+}
+}
+
+function clickNS4(e){
+if (document.layers||document.getElementById&&!document.all){
+if (e.which==2||e.which==3){
+alert(message);
+return false;
+}
+}
+}
+
+if (document.layers){
+document.captureEvents(Event.MOUSEDOWN);
+document.onmousedown=clickNS4;
+}
+else if (document.all&&!document.getElementById){
+document.onmousedown=clickIE4;
+}
+
+document.oncontextmenu=new Function("alert(message);return false")
+
+// --> 
+</SCRIPT>
+<TR> 
+<TD VALIGN="top" HEIGHT="100" COLSPAN="2"> 
+<TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0" BACKGROUND="logobg2.gif">
+<TR> 
+<TD COLSPAN="2" BGCOLOR="#F7B738"><IMG SRC="spacer.gif" WIDTH="1" HEIGHT="20"> 
+<SCRIPT LANGUAGE="" SRC="coolmenus/menu.js">
+</SCRIPT>
+<A NAME="top"></A></TD>
+</TR>
+<TR> 
+<TD><IMG SRC="logorght.gif" WIDTH="498" HEIGHT="100"></TD>
+<TD ALIGN="right"><IMG SRC="logomap.gif" WIDTH="101" HEIGHT="100" NAME="Image1"></TD>
+</TR>
+</TABLE>
+</TD>
+</TR>
+<TR> 
+<TD HEIGHT="29" COLSPAN="2"> 
+<TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+<TR VALIGN="MIDDLE"> 
+<TD WIDTH="81"><IMG NAME="n1_r2_c1" SRC="1_r2_c1.gif" WIDTH="81" HEIGHT="29" BORDER="0" ALIGN="absmiddle"></TD>
+<TD><!-- #BeginEditable "Navigation" -->{Navigation}<!-- #EndEditable --></TD>
+<TD ALIGN="RIGHT"><A HREF="sitemap.asp"><FONT SIZE="1" COLOR="#FFFFFF">Site Map</FONT></A><FONT SIZE="1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+</TR>
+</TABLE>
+</TD>
+</TR>
+<TR> 
+<TD BGCOLOR="#FFFFFF" COLSPAN="2"> 
+<DIV ID="printReady"><!-- #BeginEditable "ACD" --> 
+<TABLE BORDER="0" CELLSPACING="1" CELLPADDING="3" ALIGN="center">
+<TR> 
+<TD nowrap ALIGN="center"><A HREF="dogsdet.asp?id=49212"><B>Go 
+to TURRELLA RED JACKIE O 's Page</B></A></TD>
+<TD ALIGN="right"><A HREF="javascript:history.back(1)"><IMG SRC="back.gif" WIDTH="24" HEIGHT="24" ALIGN="absmiddle" BORDER="0"></A></TD>
+</TR>
+<TR> 
+<TD COLSPAN="2" BGCOLOR="#F5F5F5" CLASS="headercell" nowrap> <B></B></TD>
+</TR>
+<TR> 
+<TD VALIGN="middle" ALIGN="center" COLSPAN="2">5WKS<BR>
+<IMG SRC="dogpics/TURRELLAREDJACKIEO-5WKSMedium_1.JPG" CLASS="headercell"></TD>
+</TR>
+</TABLE>
+<!-- #EndEditable --></DIV>
+</TD>
+</TR>
+<TR ALIGN="CENTER"> 
+<TD BGCOLOR="#FFFFFF" COLSPAN="2"> 
+<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0" WIDTH="100%">
+<TR> 
+<TD ALIGN="CENTER"><FONT SIZE="1"><A HREF="javascript:void(printSpecial())"><IMG SRC="printl1.gif" WIDTH="33" HEIGHT="23" ALIGN="ABSMIDDLE" BORDER="0">Print 
+this Page</A> </FONT></TD>
+<TD ALIGN="RIGHT"><FONT SIZE="1"></FONT></TD>
+<TD ALIGN="CENTER"><FONT SIZE="1"><IMG SRC="magnify.jpg" WIDTH="20" HEIGHT="27" ALIGN="ABSMIDDLE">Site 
+Tip, Click Small Images to <BR>
+View Larger Version (Where Applicable)</FONT></TD>
+<TD ALIGN="CENTER"><A HREF="#top"><FONT SIZE="1"><IMG SRC="incp-up.gif" WIDTH="15" HEIGHT="15" ALIGN="ABSMIDDLE" BORDER="0">Top 
+of Page</FONT></A></TD>
+</TR>
+</TABLE>
+</TD>
+</TR>
+<TR> 
+<TD BGCOLOR="#006633" ALIGN="center" VALIGN="middle" COLSPAN="2"> 
+<HR>
+</TD>
+</TR>
+<TR ALIGN="CENTER" VALIGN="MIDDLE"> 
+<TD BGCOLOR="#006633" COLSPAN="2">&nbsp;</TD>
+</TR>
+<TR> 
+<TD BGCOLOR="#006633" ALIGN="left" VALIGN="bottom"><A HREF="http://www.acdeurope.com/" TARGET="_blank"><BR>
+</A><FONT COLOR="#FFFFFF" CLASS="copyright"><BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&copy;&nbsp;all content and images copyright Cheryl Edwards</FONT><FONT COLOR="#FFFFFF" CLASS="copyright"><BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<A HREF="http://sighbear.com/" TARGET="_blank"><FONT COLOR="#FFFFCC">Site 
+created by Mark Bamberry</FONT></A></FONT><BR>
+<BR>
+</TD>
+<TD BGCOLOR="#006633" ALIGN="center"><A HREF="http://www.acdeurope.com/" TARGET="_blank"><IMG SRC="banner_ani1a.gif" WIDTH="150" HEIGHT="46" BORDER="0"></A></TD>
+</TR>
+</TABLE>
+</BODY>
+<!-- #EndTemplate --> 
+</HTML>
